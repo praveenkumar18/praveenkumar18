@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @praveenkumar18
 - 👀 I’m interested in Devops,..
 - 🌱 I’m currently learning devops, security,..
-- 💞️ I’m looking to collaborate on Infra security, devops, automation, building good community and so on
+- 💞️ I’m looking to collaborate on learing, Infra security, devops, automation, building good community and so on
 - 📫 How to reach me - Mail me on : praveenkumarbalu98@gmail.com
 
 <!---
